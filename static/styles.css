@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+}
+
+h2 {
+    color:  #006b4e;
+    position: relative;
+}
+
+p {
+    font-weight: bold;
+    color:  #006b4e;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    order: solid #ddd;
+}
+
+li {
+    margin-top: 14px;
+    margin-bottom: 14px;
+}
+
+a {
+    text-decoration: none;
+    color: #006b4e;
+}
+
+a:hover {
+    color: #007bff;
+}
